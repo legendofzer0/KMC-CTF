@@ -1,0 +1,3 @@
+Find the flag from the following Cypher:
+
+a21jLUZMQUctQ0FQdHVyZWQtS01D
