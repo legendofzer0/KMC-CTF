@@ -8,7 +8,7 @@ CTF 2
 
 CTF3 
 
-50 points
+75 points
 
 CTF 4
 
@@ -16,7 +16,7 @@ CTF 4
 
 CTF 5
 
-75 points
+50 points
 
 CTF 6
 
